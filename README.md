@@ -66,6 +66,8 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 ## 9.‎ ‏Contact info
 
 Patrick Van Stee:
+patrick@vanstee.me
+404 697 8764
 
 ## 10.‎ ‏License and attribution
 
